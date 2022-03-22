@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Timer App</string>
+    <string name="default_last_workout_info_text">Enter a workout type and start the timer. \n Stop the timer when workout is complete.</string>
+    <string name="enter_your_workout_type">Enter your workout type:</string>
+    <string name="zero_time_text">00:00</string>
+</resources>
